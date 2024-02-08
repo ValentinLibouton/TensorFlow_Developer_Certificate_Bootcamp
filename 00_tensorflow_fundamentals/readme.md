@@ -28,3 +28,26 @@ tf.ones()
 ```python
 tf.zeros()
 ```
+Doc: `tf.newaxis()`
+```python
+tf.newaxis()
+```
+An alternative to `tf.newaxis()`:<br>
+[Doc: `tf.expand_dims()`](https://www.tensorflow.org/api_docs/python/tf/expand_dims)<br>
+```python
+tf.expand_dims()
+```
+[Doc: `tf.math.multiply()` or `tf.multiply()`](https://www.tensorflow.org/api_docs/python/tf/math/multiply)<br>
+```python
+tf.math.multiply()
+```
+```python
+tf.multiply()
+```
+[Doc: `tf.math.add()` or `tf.add()`]()<br>
+```python
+tf.math.add()
+```
+```python
+tf.add()
+```
