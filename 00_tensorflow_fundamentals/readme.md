@@ -72,3 +72,15 @@ tf.linalg.matmul()
 ```python
 tf.matmul()
 ```
+[Doc: `tf.reshape()`](https://www.tensorflow.org/api_docs/python/tf/reshape)<br>
+```python
+tf.reshape()
+```
+[Doc: `tf.transpose()`](https://www.tensorflow.org/api_docs/python/tf/transpose)<br>
+```python
+tf.transpose()
+```
+[Doc: `tf.tensordot()`](https://www.tensorflow.org/api_docs/python/tf/tensordot)<br>
+```python
+tf.tensordot()
+```
