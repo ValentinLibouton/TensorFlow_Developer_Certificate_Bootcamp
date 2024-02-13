@@ -53,37 +53,27 @@ tf.expand_dims()
 [Doc: `tf.math.multiply()` or `tf.multiply()`](https://www.tensorflow.org/api_docs/python/tf/math/multiply)<br>
 ```python
 tf.math.multiply()
-```
-```python
 tf.multiply()
 ```
 [Doc: `tf.math.add()` or `tf.add()`]()<br>
 ```python
 tf.math.add()
-```
-```python
 tf.add()
 ```
 [Doc: `tf.math.subtract()` or `tf.subtract()`](https://www.tensorflow.org/api_docs/python/tf/math/subtract)<br>
 ```python
 tf.math.subtract()
-```
-```python
 tf.subtract()
 ```
 [Doc: `tf.math.divide()` or `tf.divide()`](https://www.tensorflow.org/api_docs/python/tf/math/divide)<br>
 ```python
 tf.math.divide()
-```
-```python
 tf.divide()
 ```
 ### 24. Matrix multiplication with tensors part 1
 [Doc: `tf.linalg.matmul()` or `tf.matmul()`](https://www.tensorflow.org/api_docs/python/tf/linalg/matmul)<br>
 ```python
 tf.linalg.matmul()
-```
-```python
 tf.matmul()
 ```
 ### 25. Matrix multiplication with tensors part 2
@@ -99,12 +89,10 @@ tf.transpose()
 [Doc: `tf.linalg.tensordot()` or `tf.tensordot()`](https://www.tensorflow.org/api_docs/python/tf/tensordot)<br>
 ```python
 tf.linalg.tensordot()
-```
-```python
 tf.tensordot()
 ```
 ### 27. Changing the datatype of tensors
-[Doc `Mixed Precision`](https://www.tensorflow.org/guide/mixed_precision?hl=fr)<br>
+[Doc: `Mixed Precision`](https://www.tensorflow.org/guide/mixed_precision?hl=fr)<br>
 ```python
 import tensorflow as tf
 
@@ -112,11 +100,52 @@ from tensorflow import keras
 from tensorflow.keras import layers
 from tensorflow.keras import mixed_precision
 ```
-[Doc `tf.dtypes.cast()` or `tf.cast()`](https://www.tensorflow.org/api_docs/python/tf/cast)<br>
+[Doc: `tf.dtypes.cast()` or `tf.cast()`](https://www.tensorflow.org/api_docs/python/tf/cast)<br>
 ```python
 tf.dtypes.cast()
-```
-```python
 tf.cast()
 ```
 ### 28. Tensor aggregation (finding the min, max, mean & more)
+[Doc: `tf.math.abs()` or `tf.abs()`](https://www.tensorflow.org/api_docs/python/tf/math/abs)<br>
+```python
+tf.math.abs()
+tf.abs()
+```
+[Doc: `tf.math.reduce_min()` or `tf.reduce_min()`](https://www.tensorflow.org/api_docs/python/tf/math/reduce_min)<br>
+```python
+tf.math.reduce_min()
+tf.reduce_min()
+# NumPy compatibility
+np.min()
+```
+[Doc: `tf.math.reduce_max()` or `tf.reduce_max()`](https://www.tensorflow.org/api_docs/python/tf/math/reduce_max)<br>
+```python
+tf.math.reduce_max()
+tf.reduce_max()
+# NumPy compatibility
+np.max()
+```
+[Doc: `tf.math.reduce_mean()` or `tf.reduce_mean()`](https://www.tensorflow.org/api_docs/python/tf/math/reduce_mean)<br>
+```python
+tf.math.reduce_mean()
+tf.reduce_mean()
+# NumPy compatibility
+np.mean()
+```
+[Doc: `tf.math.reduce_sum()` or `tf.reduce_sum()`](https://www.tensorflow.org/api_docs/python/tf/math/reduce_sum)<br>
+```python
+tf.math.reduce_sum()
+tf.reduce_sum()
+# NumPy compatibility
+np.sum()
+```
+### 29. Tensor troubleshooting example (updating tensor datatypes)
+[Doc: `tfp.stats.variance()`](https://www.tensorflow.org/probability/api_docs/python/tfp/stats/variance)<br>
+```python
+import tensorflow_probability as tfp
+tfp.stats.variance()
+```
+[Doc: `tf.math.reduce_std()`](https://www.tensorflow.org/api_docs/python/tf/math/reduce_std)<br>
+```python
+tf.math.reduce_std()
+```
