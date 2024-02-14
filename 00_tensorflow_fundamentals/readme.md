@@ -149,3 +149,20 @@ tfp.stats.variance()
 ```python
 tf.math.reduce_std()
 ```
+### 30. Finding the positional minimum and maximum of a tensor (argmin and argmax)
+[Doc: `tf.math.argmax()` or `tf.argmax()`](https://www.tensorflow.org/api_docs/python/tf/math/argmax)<br>
+```python
+tf.math.argmax()
+tf.argmax()
+```
+[Doc: `tf.math.argmin()` or `tf.argmin()`](https://www.tensorflow.org/api_docs/python/tf/math/argmin)<br>
+```python
+tf.math.argmin()
+tf.argmin()
+```
+### 31. Squeezing a tensor (removing all 1-dimension axes)
+[Doc: `tf.squeeze()`](https://www.tensorflow.org/api_docs/python/tf/squeeze)<br>
+```python
+tf.squeeze()
+```
+### 32. One-hot encoding tensors
