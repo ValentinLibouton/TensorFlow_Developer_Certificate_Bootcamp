@@ -166,3 +166,41 @@ tf.argmin()
 tf.squeeze()
 ```
 ### 32. One-hot encoding tensors
+[Doc: `tf.one_hot()`](https://www.tensorflow.org/api_docs/python/tf/one_hot)<br>
+```python
+tf.one_hot()
+```
+### 33. Trying out more tensor math operations
+[Doc: `tf.range()](https://www.tensorflow.org/api_docs/python/tf/range)<br>
+```python
+tf.range()
+```
+[Doc: `tf.math.square()` or `tf.square()`](https://www.tensorflow.org/api_docs/python/tf/math/square)<br>
+```python
+tf.math.square()
+tf.square()
+```
+[Doc: `tf.math.sqrt()` or `tf.sqrt()`](https://www.tensorflow.org/api_docs/python/tf/math/sqrt)<br>
+```python
+tf.math.sqrt()
+tf.sqrt()
+```
+[Doc: `tf.math.log()`](https://www.tensorflow.org/api_docs/python/tf/math/log)<br>
+```python
+tf.math.log()
+```
+### 34. Exploring,TensorFlow and NumPy's compatibility
+None
+### 35. Making sure our tensor operations run really fast on GPUs
+[Doc: `tf.test.is_gpu_available() **(deprecated)**](https://www.tensorflow.org/api_docs/python/tf/test/is_gpu_available)<br>
+```python
+tf.test.is_gpu_available() # deprecated
+```
+[Doc: `tf.config.list_physical_devices()` or `tf.config.experimental.list_physical_devices()`]()<br>
+```python
+tf.config.list_physical_devices()
+```
+[Doc: `!nvidia-smi`](https://developer.nvidia.com/nvidia-system-management-interface)<br>
+```python
+!nvidia-smi
+```
