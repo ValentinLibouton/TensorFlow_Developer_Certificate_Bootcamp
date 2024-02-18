@@ -204,3 +204,9 @@ tf.config.list_physical_devices()
 ```python
 !nvidia-smi
 ```
+### 36. Extra curriculum
+[Doc: `tf.keras.utils.normalize()`](https://www.tensorflow.org/api_docs/python/tf/keras/utils/normalize)<br>
+```python
+tf.keras.utils.normalize()
+```
+[Video: What's a Tensor?](https://www.youtube.com/watch?v=f5liqUk0ZTw)<br>
