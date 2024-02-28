@@ -88,3 +88,6 @@ sklearn.compose.make_column_transformer()
 sklearn.preprocessing.MinMaxScaler()
 sklearn.preprocessing.OneHotEncoder()
 ```
+### 68. TensorFlow Regression challenge, exercises & extra-curriculum
+[Video: MIT Introduction to Deep Learning](https://www.youtube.com/watch?v=7sB052Pz0sQ)<br>
+[Reading: Chapter 1 of Neural Networks and Deep Learning](http://neuralnetworksanddeeplearning.com/chap1.html)<br>
