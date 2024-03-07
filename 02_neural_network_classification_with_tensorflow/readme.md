@@ -31,3 +31,10 @@ x = np.array([[1, 2, 3], [4, 5, 6]])
 np.ravel(x)
 >>> array([1, 2, 3, 4, 5, 6
 ```
+
+## 84. Non-linearity part 4: Modelling our non-linear data once and for all
+```python
+activation=tf.keras.activations.sigmoid
+# or
+activation=["sigmoid"]
+```
