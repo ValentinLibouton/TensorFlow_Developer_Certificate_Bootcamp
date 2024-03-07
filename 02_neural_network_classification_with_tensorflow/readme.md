@@ -38,3 +38,12 @@ activation=tf.keras.activations.sigmoid
 # or
 activation=["sigmoid"]
 ```
+
+## 85. Non-linearity part 5: Replicating non-linear activation functions from scratch
+[Resource: ml-cheatsheet - activations functions](https://www.udemy.com/course/tensorflow-developer-certificate-machine-learning-zero-to-mastery/learn/lecture/24957122#overview)<br>
+
+# 88. Using callbacks to find a model's ideal learning rate
+```python
+lr_scheduler = tf.keras.callbacks.LearningRateScheduler(lambda epoch: 1e-4 * 10**(epoch/20))
+history_9 = model_9.fit(X_train, y_train, epochs=100, callbacks=[lr_scheduler])
+```
