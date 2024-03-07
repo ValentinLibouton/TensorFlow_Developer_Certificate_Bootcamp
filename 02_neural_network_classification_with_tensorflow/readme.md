@@ -42,8 +42,38 @@ activation=["sigmoid"]
 ## 85. Non-linearity part 5: Replicating non-linear activation functions from scratch
 [Resource: ml-cheatsheet - activations functions](https://www.udemy.com/course/tensorflow-developer-certificate-machine-learning-zero-to-mastery/learn/lecture/24957122#overview)<br>
 
-# 88. Using callbacks to find a model's ideal learning rate
+## 88. Using callbacks to find a model's ideal learning rate
 ```python
 lr_scheduler = tf.keras.callbacks.LearningRateScheduler(lambda epoch: 1e-4 * 10**(epoch/20))
 history_9 = model_9.fit(X_train, y_train, epochs=100, callbacks=[lr_scheduler])
+```
+
+## 90. Introducing more classification evaluation methods
+- Accuracy
+```python
+tf.keras.metrics.Accuracy()
+# or
+sklearn.metrics.accuracy_score()
+```
+- Precision
+```python
+tf.keras.metrics.Precision()
+# or
+sklearn.metrics.precision_score()
+```
+- Recall
+```python
+tf.keras.metrics.Recall()
+# or
+sklearn.metrics.recall_score()
+```
+- F1-Score
+```python
+sklearn.metrics.f1_score()
+```
+- Confusion matrix
+```python
+# Custom function
+# or
+sklearn.metrics.confusion_matrix()
 ```
