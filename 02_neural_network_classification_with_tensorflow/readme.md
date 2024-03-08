@@ -91,9 +91,11 @@ tf.round()
 ```
 
 ## 93. Making our confusion matrix prettier
+[Doc: `sklearn.metrics.confusion_matrix()`](https://scikit-learn.org/stable/modules/generated/sklearn.metrics.confusion_matrix.html)<br>
 ```python
-sklearn.metrics.plot_confusion_matrix()
-# replaced by 
-sklearn.metrics.ConfusionMatrixDisplay.from_predictions()
+sklearn.metrics.confusion_matrix()
 ```
-I have to check the change of libraries!
+[Doc: `matplotlib.pyplot.matshow()`](https://matplotlib.org/stable/api/_as_gen/matplotlib.pyplot.matshow.html#matplotlib.pyplot.matshow)<br>
+```python
+matplotlib.pyplot.matshow()
+```
