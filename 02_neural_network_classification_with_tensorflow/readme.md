@@ -71,9 +71,29 @@ sklearn.metrics.recall_score()
 ```python
 sklearn.metrics.f1_score()
 ```
-- Confusion matrix
+- Confusion matrix<br>
+[Doc: `sklearn.metrics.confusion_matrix()`](https://scikit-learn.org/stable/modules/generated/sklearn.metrics.confusion_matrix.html#sklearn-metrics-confusion-matrix)<br>
 ```python
 # Custom function
 # or
+from sklearn.metrics import confusion_matrix
 sklearn.metrics.confusion_matrix()
 ```
+## 91. Finding the accuracy of our classification model
+[Doc `sklearn.metrics.classification_report()`](https://scikit-learn.org/stable/modules/generated/sklearn.metrics.classification_report.html)<br>
+```python
+sklearn.metrics.classification_report()
+```
+
+## 92. Creating our first confusion matrix (to see where our model is getting
+```python
+tf.round()
+```
+
+## 93. Making our confusion matrix prettier
+```python
+sklearn.metrics.plot_confusion_matrix()
+# replaced by 
+sklearn.metrics.ConfusionMatrixDisplay.from_predictions()
+```
+I have to check the change of libraries!
