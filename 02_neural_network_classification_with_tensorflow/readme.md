@@ -99,3 +99,15 @@ sklearn.metrics.confusion_matrix()
 ```python
 matplotlib.pyplot.matshow()
 ```
+
+## 96. Multi-class classification part 3: Building a multi-class classification
+[Doc: `tf.keras.activations.softmax()`](https://www.tensorflow.org/api_docs/python/tf/keras/activations/softmax)<br>
+```python
+tf.keras.activations.softmax()
+```
+
+```python
+loss=tf.keras.losses.CategoricalCrossentropy()
+loss=tf.keras.losses.SparseCategoricalCrossentropy()
+metrics=tf.keras.metrics.CategoricalAccuracy()
+```
