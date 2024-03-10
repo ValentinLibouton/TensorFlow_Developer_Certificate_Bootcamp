@@ -107,7 +107,10 @@ tf.keras.activations.softmax()
 ```
 
 ```python
+#one_hot encoded version
 loss=tf.keras.losses.CategoricalCrossentropy()
-loss=tf.keras.losses.SparseCategoricalCrossentropy()
 metrics=tf.keras.metrics.CategoricalAccuracy()
+# integer version
+loss=tf.keras.losses.SparseCategoricalCrossentropy()
+metrics=tf.keras.metrics.SparseCategoricalAccuracy()
 ```
