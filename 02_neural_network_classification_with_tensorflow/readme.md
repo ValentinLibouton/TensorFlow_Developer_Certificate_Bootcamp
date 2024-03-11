@@ -114,3 +114,9 @@ metrics=tf.keras.metrics.CategoricalAccuracy()
 loss=tf.keras.losses.SparseCategoricalCrossentropy()
 metrics=tf.keras.metrics.SparseCategoricalAccuracy()
 ```
+## 103. What "patterns" is our model learning?
+```python
+model.layers
+model.layers[1]
+weights, biases = model.layers[1].get_weights()
+```
