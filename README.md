@@ -16,7 +16,7 @@ This course prepares for official Google's TensorFlow certification:<br>
 ### 2. Neural Network Classification With TensorFlow
 - [x] [Theory](02_neural_network_classification_with_tensorflow/02.1_neural_network_classification_with_tensorflow_video.ipynb)<br>
 - [x] [Exercises](02_neural_network_classification_with_tensorflow/02.2_neural_network_classification_with_tensorflow_exercises.ipynb)<br>
-- [x] [Notes](02_neural_network_classification_with_tensorflow/readme.md)<br>
+- [x] [Notes](02_neural_network_classification_with_tensorflow/readme)<br>
 ### 3. Computer Vision and Convolutional Neural Networks in TensorFlow (in progess)
 - [ ] [Theory](03_computer_vision_and_convolutional_neural_networks_in_tensorflow/03.1_introduction_to_computer_vision_with_tensorflow_video.ipynb)<br>
 - [ ] Exercises
