@@ -35,3 +35,13 @@ While both perform the same basic ReLU operation, `tf.keras.activations.relu` is
 tf.nn.relu
 tf.keras.activations.relu
 ```
+## 118. Breaking our CNN model down part 4: Building a baseline CNN model
+[https://paperswithcode.com/sota](https://paperswithcode.com/sota)<br>
+
+## 119. Breaking our CNN model down part 5: Looking inside a Conv2D layer
+```python
+# these two lines are equivalent
+tf.keras.layers.Conv2D(filters=10, kernel_size=(3,3), strides=(1, 1), padding="same")
+tf.keras.layers.Conv2D(filters=10, kernel_size=3, strides=1, padding="same")
+
+```
