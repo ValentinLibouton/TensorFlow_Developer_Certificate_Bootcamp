@@ -170,3 +170,4 @@ cython_debug/
 *.avi
 *.ods
 *.pdf
+*.jpeg
