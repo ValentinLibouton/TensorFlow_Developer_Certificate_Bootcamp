@@ -1,4 +1,3 @@
-import os
 import matplotlib.pyplot as plt
 import tensorflow as tf
 
@@ -9,7 +8,7 @@ def prepare_image(file_path, img_shape=224, scale=True, channels=3):
     (img_shape, img_shape, channels), and optionally scales the image values to [0, 1].
 
     Parameters:
-    - filename (str): Path to the target image.
+    - file_path (str): Path to the target image.
     - img_shape (int): Desired size of the image sides.
     - scale (bool): Whether to scale pixel values to the range [0, 1].
     - channels (int): Number of color channels for the image.
