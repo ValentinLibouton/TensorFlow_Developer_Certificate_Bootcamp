@@ -18,8 +18,8 @@ This course prepares for official Google's TensorFlow certification:<br>
 - [x] [Exercises](02_neural_network_classification_with_tensorflow/02.2_neural_network_classification_with_tensorflow_exercises.ipynb)<br>
 - [x] [Notes](02_neural_network_classification_with_tensorflow/readme)<br>
 ### 3. Computer Vision and Convolutional Neural Networks in TensorFlow (in progess)
-- [ ] [Theory](03_computer_vision_and_convolutional_neural_networks_in_tensorflow/03.1_introduction_to_computer_vision_with_tensorflow_video.ipynb)<br>
-- [ ] Exercises
+- [x] [Theory](03_computer_vision_and_convolutional_neural_networks_in_tensorflow/03.1_introduction_to_computer_vision_with_tensorflow_video.ipynb)<br>
+- [ ] [Exercises](03_computer_vision_and_convolutional_neural_networks_in_tensorflow/03.2_introduction_to_computer_vision_with_tensorflow_exercises.ipynb)<br>
 - [ ] [Notes](03_computer_vision_and_convolutional_neural_networks_in_tensorflow/readme.md)<br>
 ### 4.Transfer Learning in TensorFlow Part 1: Feature extraction
 - [ ] Theory
