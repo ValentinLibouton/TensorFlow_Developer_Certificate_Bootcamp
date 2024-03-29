@@ -22,11 +22,11 @@ This course prepares for official Google's TensorFlow certification:<br>
 - [ ] [Exercises](03_computer_vision_and_convolutional_neural_networks_in_tensorflow/03.2_introduction_to_computer_vision_with_tensorflow_exercises.ipynb) (Two more exercises to do later)<br>
 - [ ] [Notes](03_computer_vision_and_convolutional_neural_networks_in_tensorflow/readme.md) (To be completed)<br>
 ### 4.Transfer Learning in TensorFlow Part 1: Feature extraction
-- [ ] [Theory](04_transfer_learning_in_tensorflow_part_1_feature_extraction/04.1_transfer_learning_in_tensorflow_part_1_feature_extraction_video.ipynb)<br>
-- [ ] Exercises 
+- [x] [Theory](04_transfer_learning_in_tensorflow_part_1_feature_extraction/04.1_transfer_learning_in_tensorflow_part_1_feature_extraction_video.ipynb)<br>
+- [ ] Exercises
 - [ ] Notes
 ### 5. Transfer Learning in TensorFlow Part 2: Fine tuning
-- [ ] Theory
+- [ ] [Theory](05_transfer_learning_in_tensorflow_part_2_fine_tuning/05_transfer_learning_in_tensorflow_part_2_fine_tuning_video.ipynb)<br>
 - [ ] Exercises
 - [ ] Notes
 ### 6. Transfer Learning in TensorFlow Part 2: Scaling Up
