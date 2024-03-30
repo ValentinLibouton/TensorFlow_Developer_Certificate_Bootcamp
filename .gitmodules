@@ -1,0 +1,3 @@
+[submodule "MachineLearningUtils"]
+	path = MachineLearningUtils
+	url = git@github.com:ValentinLibouton/MachineLearningUtils.git
