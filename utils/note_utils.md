@@ -56,13 +56,22 @@ compare_histories(original_history, new_history, initial_epochs=5)
 ## 7.
 ```python
 # Course function:
+unzip_data(filename)
+# Personnal function:
+from utils.data_acquisition.data_downloader import extract_archive_file
+extract_archive_file(file_path, extract_to=None)
+```
+
+## 8.
+```python
+# Course function:
 walk_through_dir(dir_path)
 # Personnal function:
 from utils.data_visualization.image_visualization import walk_through_dir
 walk_through_dir(dir_path)
 ```
 
-## 8.
+## 9.
 ```python
 # Course function:
 calculate_results(y_true, y_pred)
