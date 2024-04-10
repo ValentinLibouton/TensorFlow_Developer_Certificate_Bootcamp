@@ -26,7 +26,7 @@ This course prepares for official Google's TensorFlow certification:<br>
 - [ ] Exercises
 - [ ] Notes
 ### 5. Transfer Learning in TensorFlow Part 2: Fine tuning
-- [ ] [Theory](05_transfer_learning_in_tensorflow_part_2_fine_tuning/05.1_transfer_learning_in_tensorflow_part_2_fine_tuning_video.ipynb)<br>
+- [x] [Theory](05_transfer_learning_in_tensorflow_part_2_fine_tuning/05.1_transfer_learning_in_tensorflow_part_2_fine_tuning_video.ipynb)<br>
 - [ ] Exercises
 - [ ] Notes
 ### 6. Transfer Learning in TensorFlow Part 2: Scaling Up
