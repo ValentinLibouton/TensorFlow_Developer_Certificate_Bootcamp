@@ -171,3 +171,5 @@ cython_debug/
 *.ods
 *.pdf
 *.jpeg
+# Ignore Tensorflow checkpoints files
+*.data-00000-of-00001
