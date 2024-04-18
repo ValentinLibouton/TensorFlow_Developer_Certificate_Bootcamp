@@ -30,11 +30,11 @@ This course prepares for official Google's TensorFlow certification:<br>
 - [ ] Exercises
 - [ ] Notes
 ### 6. Transfer Learning in TensorFlow Part 2: Scaling Up
-- [ ] [Theory](06_transfer_learning_in_tensorflow_part_3_scaling_up/06.1_transfer_learning_in_tensorflow_part_3_scaling_up_video.ipynb)<br>
+- [x] [Theory](06_transfer_learning_in_tensorflow_part_3_scaling_up/06.1_transfer_learning_in_tensorflow_part_3_scaling_up_video.ipynb)<br>
 - [ ] Exercises
 - [ ] Notes
 ### 7. Milestone Project 1: Food Vision Big
-- [ ] Theory
+- [ ] [Theory](07_milestone_project_1_food_vision/07.1_milestone_project_1_food_vision_video.ipynb)<br>
 - [ ] Exercises
 - [ ] Notes
 ### 8. NLP Fundamentals in TensorFlow
