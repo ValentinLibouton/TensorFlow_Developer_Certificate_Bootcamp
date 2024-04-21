@@ -34,7 +34,8 @@ This course prepares for official Google's TensorFlow certification:<br>
 - [ ] Exercises
 - [ ] Notes
 ### 7. Milestone Project 1: Food Vision Big
-- [ ] [Theory](07_milestone_project_1_food_vision/07.1_milestone_project_1_food_vision_video.ipynb)<br>
+- [x] [Theory](07_milestone_project_1_food_vision/07.1_milestone_project_1_food_vision_video.ipynb)<br>
+- [ ] Milestone project
 - [ ] Exercises
 - [ ] Notes
 ### 8. NLP Fundamentals in TensorFlow
