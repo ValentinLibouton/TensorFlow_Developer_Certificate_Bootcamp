@@ -173,3 +173,4 @@ cython_debug/
 *.jpeg
 # Ignore Tensorflow checkpoints files
 *.data-00000-of-00001
+*.tsv
