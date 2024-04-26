@@ -39,11 +39,11 @@ This course prepares for official Google's TensorFlow certification:<br>
 - [ ] Exercises
 - [ ] Notes
 ### 8. NLP Fundamentals in TensorFlow
-- [ ] [Theory](08_introduction_to_nlp_in_tensorflow/08_introduction_to_nlp_in_tensorflow_video.ipynb)<br>
+- [x] [Theory](08_introduction_to_nlp_in_tensorflow/08_introduction_to_nlp_in_tensorflow_video.ipynb)<br>
 - [ ] Exercises
 - [ ] Notes
 ### 9. Milestone Project 2: SkimLit
-- [ ] Theory
+- [ ] [Theory](09_SkimLit_nlp_milestone_project_2/09.1_SkimLit_nlp_milestone_project_2_video.ipynb)<br>
 - [ ] Exercises
 - [ ] Notes
 ### 10. Time Series fundamentals in TensorFlow + Milestone Project 3: BitPredict
