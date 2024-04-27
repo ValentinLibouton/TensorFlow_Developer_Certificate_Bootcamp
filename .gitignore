@@ -177,3 +177,5 @@ cython_debug/
 *.index
 *.tsv
 *.h5
+
+/09_SkimLit_nlp_milestone_project_2/pubmed-rct/
