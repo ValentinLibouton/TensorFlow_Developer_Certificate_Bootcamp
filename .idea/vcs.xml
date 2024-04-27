@@ -2,6 +2,7 @@
 <project version="4">
   <component name="VcsDirectoryMappings">
     <mapping directory="" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/09_SkimLit_nlp_milestone_project_2/pubmed-rct" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/MachineLearningUtils" vcs="Git" />
   </component>
 </project>
