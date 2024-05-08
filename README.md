@@ -6,52 +6,24 @@ This course prepares for official Google's TensorFlow certification:<br>
 
 ## Table of contents
 ### 0. TensorFlow fundamentals
-- [x] [Theory](00_tensorflow_fundamentals/00.1_tensorflow_fundamentals.ipynb)<br>
-- [x] [Exercises](00_tensorflow_fundamentals/00.2_tensorflow_fundamentals_exercises.ipynb)<br>
-- [x] [Notes](00_tensorflow_fundamentals/readme.md)<br>
+- [x] [Notebook](00_tensorflow_fundamentals/00.1_tensorflow_fundamentals.ipynb)<br>
 ### 1. Neural Network Regression With TensorFlow
-- [x] [Theory](01_neural_network_regression_with_tensorflow/01.1_neural_network_regression_with_tensorflow_video.ipynb)<br>
-- [x] [Exercises](01_neural_network_regression_with_tensorflow/01.2_neural_network_regression_with_tensorflow_exercises.ipynb)<br>
-- [x] [Notes](01_neural_network_regression_with_tensorflow/readme.md)<br>
+- [x] [Notebook](01_neural_network_regression_with_tensorflow/01.1_neural_network_regression_with_tensorflow_video.ipynb)<br>
 ### 2. Neural Network Classification With TensorFlow
-- [x] [Theory](02_neural_network_classification_with_tensorflow/02.1_neural_network_classification_with_tensorflow_video.ipynb)<br>
-- [x] [Exercises](02_neural_network_classification_with_tensorflow/02.2_neural_network_classification_with_tensorflow_exercises.ipynb)<br>
-- [x] [Notes](02_neural_network_classification_with_tensorflow/readme)<br>
+- [x] [Notebook](02_neural_network_classification_with_tensorflow/02.1_neural_network_classification_with_tensorflow_video.ipynb)<br>
 ### 3. Computer Vision and Convolutional Neural Networks in TensorFlow
-- [x] [Theory](03_computer_vision_and_convolutional_neural_networks_in_tensorflow/03.1_introduction_to_computer_vision_with_tensorflow_video.ipynb)<br>
-- [ ] [Exercises](03_computer_vision_and_convolutional_neural_networks_in_tensorflow/03.2_introduction_to_computer_vision_with_tensorflow_exercises.ipynb) (Two more exercises to do later)<br>
-- [ ] [Notes](03_computer_vision_and_convolutional_neural_networks_in_tensorflow/readme.md) (To be completed)<br>
+- [x] [Notebook](03_computer_vision_and_convolutional_neural_networks_in_tensorflow/03.1_introduction_to_computer_vision_with_tensorflow_video.ipynb)<br>
 ### 4.Transfer Learning in TensorFlow Part 1: Feature extraction
-- [x] [Theory](04_transfer_learning_in_tensorflow_part_1_feature_extraction/04.1_transfer_learning_in_tensorflow_part_1_feature_extraction_video.ipynb)<br>
-- [ ] Exercises
-- [ ] Notes
+- [x] [Notebook](04_transfer_learning_in_tensorflow_part_1_feature_extraction/04.1_transfer_learning_in_tensorflow_part_1_feature_extraction_video.ipynb)<br>
 ### 5. Transfer Learning in TensorFlow Part 2: Fine tuning
-- [x] [Theory](05_transfer_learning_in_tensorflow_part_2_fine_tuning/05.1_transfer_learning_in_tensorflow_part_2_fine_tuning_video.ipynb)<br>
-- [ ] Exercises
-- [ ] Notes
+- [x] [Notebook](05_transfer_learning_in_tensorflow_part_2_fine_tuning/05.1_transfer_learning_in_tensorflow_part_2_fine_tuning_video.ipynb)<br>
 ### 6. Transfer Learning in TensorFlow Part 2: Scaling Up
-- [x] [Theory](06_transfer_learning_in_tensorflow_part_3_scaling_up/06.1_transfer_learning_in_tensorflow_part_3_scaling_up_video.ipynb)<br>
-- [ ] Exercises
-- [ ] Notes
+- [x] [Notebook](06_transfer_learning_in_tensorflow_part_3_scaling_up/06.1_transfer_learning_in_tensorflow_part_3_scaling_up_video.ipynb)<br>
 ### 7. Milestone Project 1: Food Vision Big
-- [x] [Theory](07_milestone_project_1_food_vision/07.1_milestone_project_1_food_vision_video.ipynb)<br>
-- [ ] Milestone project
-- [ ] Exercises
-- [ ] Notes
+- [x] [Notebook](07_milestone_project_1_food_vision/07.1_milestone_project_1_food_vision_video.ipynb)<br>
 ### 8. NLP Fundamentals in TensorFlow
-- [x] [Theory](08_introduction_to_nlp_in_tensorflow/08_introduction_to_nlp_in_tensorflow_video.ipynb)<br>
-- [ ] Exercises
-- [ ] Notes
+- [x] [Notebook](08_introduction_to_nlp_in_tensorflow/08_introduction_to_nlp_in_tensorflow_video.ipynb)<br>
 ### 9. Milestone Project 2: SkimLit
-- [x] [Theory](09_SkimLit_nlp_milestone_project_2/09.1_SkimLit_nlp_milestone_project_2_video.ipynb)<br>
-- [ ] Exercises
-- [ ] Notes
+- [x] [Notebook](09_SkimLit_nlp_milestone_project_2/09.1_SkimLit_nlp_milestone_project_2_video.ipynb)<br>
 ### 10. Time Series fundamentals in TensorFlow + Milestone Project 3: BitPredict
-- [ ] Theory
-- [ ] Exercises
-- [ ] Notes
-### 11. Passing the TensorFlow Developer Certificate Exam
-- [ ] Theory
-- [ ] Exercises
-- [ ] Notes
-### And so on ...
+- [ ] [Notebook](10_time_series_forecasting_with_tensorflow/10.1_time_series_forecasting_with_tensorflow_video.ipynb) **In progress...**<br>
