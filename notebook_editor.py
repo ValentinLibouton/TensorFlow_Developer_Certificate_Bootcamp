@@ -32,11 +32,19 @@ class NotebookEditor:
         # Recréez chaque cellule du notebook original
         for cell in self.notebook['cells']:
             if cell['cell_type'] == 'code':
-                new_cell = nbformat.v4.new_code_cell(source=cell['source'])
+                new_cell = nbformat.v4.new_code_cell(
+                    source=cell.get('source', ''),
+                    execution_count=cell.get('execution_count', None),
+                    outputs=cell.get('outputs', []),
+                    metadata=cell.get('metadata', {})
+                )
             elif cell['cell_type'] == 'markdown':
-                new_cell = nbformat.v4.new_markdown_cell(source=cell['source'])
+                new_cell = nbformat.v4.new_markdown_cell(
+                    source=cell.get('source', ''),
+                    metadata=cell.get('metadata', {})
+                )
             else:
-                continue
+                continue  # Si vous avez d'autres types de cellules, gérez-les ici
             new_notebook['cells'].append(new_cell)
 
         # Sauvegarder le nouveau notebook
