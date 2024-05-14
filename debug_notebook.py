@@ -29,7 +29,7 @@ if __name__ == "__main__":
     nb_editor = NotebookEditor(file_path="10_time_series_forecasting_with_tensorflow/Template_Empty.ipynb")
 
     # Ajouter une cellule de code
-    nb_editor.add_cell_code()
+    #nb_editor.add_cell_code()
 
     # Ajouter une cellule Markdown
     nb_editor.add_cell_markdown()
