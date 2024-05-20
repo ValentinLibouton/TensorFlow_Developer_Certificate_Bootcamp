@@ -26,4 +26,4 @@ This course prepares for official Google's TensorFlow certification:<br>
 ### 9. Milestone Project 2: SkimLit
 - [x] [Notebook](09_SkimLit_nlp_milestone_project_2/09.1_SkimLit_nlp_milestone_project_2_video.ipynb)<br>
 ### 10. Time Series fundamentals in TensorFlow + Milestone Project 3: BitPredict
-- [ ] [Notebook](10_time_series_forecasting_with_tensorflow/10.1_time_series_forecasting_with_tensorflow_video.ipynb) **In progress...**<br>
+- [x] [Notebook](10_time_series_forecasting_with_tensorflow/10.1_time_series_forecasting_with_tensorflow_video.ipynb)<br>
