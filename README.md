@@ -1,6 +1,7 @@
 # [Udemy - TensorFlow Developer Certificate Bootcamp](https://www.udemy.com/course/tensorflow-developer-certificate-machine-learning-zero-to-mastery/)<br>
 This course prepares for official Google's TensorFlow certification:<br>
 &rarr; [https://www.tensorflow.org/certificate](https://www.tensorflow.org/certificate)
+![My Udemy Certificate](https://udemy-certificate.s3.amazonaws.com/image/UC-02e98751-80ce-4425-898f-9c0239b7662b.jpg?v=1716237520000)
 ## Useful links
 - [Course Github: https://github.com/mrdbourke/tensorflow-deep-learning](https://github.com/mrdbourke/tensorflow-deep-learning)
 
